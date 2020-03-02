@@ -176,3 +176,5 @@ setRegValue("a0",1)
 ```
 mapNewMemory(0x1000)
 ```
+
+![](https://github.com/DasSecurity-Labs/logo/blob/master/%E5%8D%AB%E5%85%B5%E5%AE%9E%E9%AA%8C%E5%AE%A4.png)
