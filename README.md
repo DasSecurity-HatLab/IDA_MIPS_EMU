@@ -1,3 +1,5 @@
+H4lo @安恒安全研究院海特实验室
+
 ## IDA_MIPS_EMU
 
 a IDA plugin, use for emulating mips code and patch function/code in IDA pro. 
@@ -177,4 +179,6 @@ setRegValue("a0",1)
 mapNewMemory(0x1000)
 ```
 
-![](https://github.com/DasSecurity-Labs/logo/blob/master/%E5%8D%AB%E5%85%B5%E5%AE%9E%E9%AA%8C%E5%AE%A4.png)
+原文请查看微信公众号“安恒信息安全研究院”，或点击如下链接：
+![](https://github.com/DasSecurity-Labs/logo/blob/master/%E6%B5%B7%E7%89%B9%E5%AE%9E%E9%AA%8C%E5%AE%A4.jpg)
+
